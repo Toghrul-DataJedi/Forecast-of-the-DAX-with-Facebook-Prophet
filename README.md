@@ -18,7 +18,7 @@ Contact:
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow)](https://github.com/Toghrul-DataJedi)
 
 [![Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=email)](mailto:toghrulmustafayev8@gmail.com)
-
+Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/{Toghrul-DataJedi}/count.svg)
 
 
