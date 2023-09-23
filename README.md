@@ -19,7 +19,7 @@ Contact:
 
 [![Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=email)](mailto:toghrulmustafayev8@gmail.com)
 
-https://visitor-badge.glitch.me/badge?page_id=Toghrul-DataJedi-badge
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Toghrul-DataJedi-badge)
 
 
 <!---
