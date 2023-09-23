@@ -15,8 +15,8 @@ Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/toghrul-mustafayev-168509258/)
 
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow)](https://github.com/Toghrul-DataJedi)
-Mail:[toghrulmustafayev8@gmail.com](mailto:togrulmustafayev8@gmail.com)
 
+[![Email](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=email)](mailto:toghrulmustafayev8@gmail.com)
 <!-- Footer -->
 <hr>
 <p align="center">
