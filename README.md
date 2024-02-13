@@ -14,13 +14,7 @@ I'm always open to collaboration and new opportunities
 Contact:
 
 
-![Toghrul-DataJedi GitHub stats](https://github-readme-stats.vercel.app/api?username=Toghrul-DataJedi&show_icons=true&bg_color=00000000)
-<a href="https://github.com/Toghrul-DataJedi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Toghrul-DataJedi" />
-</a>
-<a href="https://github.com/Toghrul-DataJedi/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Toghrul-DataJedi&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 
 
